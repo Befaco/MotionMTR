@@ -20,7 +20,7 @@ We normally use an USBasp programmer like this one https://www.ebay.com/itm/USBA
 Go to the official Arduino website https://www.arduino.cc/en/Main/Software and download the latest version of Arduino IDE for your operating system and install it.
 
 3. Download the firmware 
-Go to https://github.com/Befaco/MotionMTR and press "clone or download" to download the repository to your computer. Extract the zip file and copy "firmware" folder to your sketchbook folder. 
+Go to https://github.com/Befaco/MotionMTR and press "clone or download" to download the repository to your computer. Extract the zip file and copy "MoltenMotionMeter" folder to your sketchbook folder. 
 
 4. Install the libraries
 Download the libraries and copy them into your library folder.
