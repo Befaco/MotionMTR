@@ -1,4 +1,10 @@
- #include <Adafruit_NeoPixel.h>
+// Molten Motion Meter
+// Copyright (c) 2022 Befaco / Nilodude
+// Open-source software
+// Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+// See LICENSE.txt for the complete license text
+
+#include <Adafruit_NeoPixel.h>
 
 #ifdef __AVR__
 #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
