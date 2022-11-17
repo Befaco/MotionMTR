@@ -1,5 +1,5 @@
 # Motion Meter v1
-Firmware for Molten Modular & Befaco [Befaco](http://befaco.org) Motion meter module.
+Firmware for Molten Modular & [Befaco](http://befaco.org) Motion meter module.
 
 ## Requirements
 You need Arduino >= 1.6.3. 
